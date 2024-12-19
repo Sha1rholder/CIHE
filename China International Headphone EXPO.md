@@ -54,14 +54,67 @@ I first encountered Fosi Audio at Shenzhen Internal Audio Show (SIAS) in Septemb
 
 ![i5](./assets/i5%20k7.jpg)
 
-At CIHE, Fosi showcased the prototype of their planar magnetic headphone, the i5, for the second time. Initially, I mistook it for a product from Ori Sonic 初心之声 (a Chinese headphone workshop that relies on China National Graphene Innovation Center, I'll introduce at the end of this post) due to their strikingly similar design, and thought Fosi may be an agent of Ori Sonic.
+At CIHE, Fosi showcased the prototype of their planar magnetic headphone, the i5, for the second time. Initially, I mistook it for a product from Ori Sonic 初心之声 (a Chinese headphone workshop that relies on China National Graphene Innovation Center, I'll introduce at the end of this post) due to their strikingly similar look, and thought Fosi may be a distributor of Ori Sonic. It was not until an operator of Fosi told me before the expo that this headphone was their own product, connecting with the recent news posted in Bilibili by the owner of Ori Sonic, I finally figured out how i5 was born.
 
-Upon clarification, it turns out that Ori Sonic developed a high-performance planar driver, which was sold to Fosi after Chuxin decided against mass production. Fosi then built their first planar magnetic headphone, the i5, around this driver. While the demo units had minor issues, the overall sound leaned towards a neutral and low-distortion tuning, which I appreciated.
+![Pain of Ori Sonic](./assets/ori%20sonic%20post.png)
 
-![Pain](./assets/pain.png)
+Upon clarification, it turns out that Ori Sonic developed a high-performance planar magnetic driver and gave it to his company. Then Fosi bought this driver patent and developed their first headphone i5. Sooner or later it's going to be put to mass production. As the demo units of i5 in expo all had some issues, I didn't critically listen to them, but they did deliver an overall sound which leaned towards a neutral and low-distortion tuning, which I appreciated.
 
-Fosi also unveiled their latest flagship product: the K7, a desktop DAC/amp priced at 1,099 RMB. Though its design resembles a gaming sound card, its core audience remains audiophiles, with sound performance prioritized above all else. The K7 even includes mic input and controls, catering to HiFi and gaming enthusiasts alike. Many distributors expressed interest in the K7 at the expo, but its production capacity is reportedly limited for now, so marketing efforts have been minimal.
+Fosi also unveiled their latest product: K7, a desktop DAC/headphone amp priced at 1,099 RMB. Though its ID resembles a gaming sound card, its main audience remains audiophiles. Sound reproduction performance prioritized above all else. Crappy soundcards like Creative's are not their competitors. According to a staff member, K7 is "Fosi's first premium desktop DAC/headphone amp". Fosi K7 has an extra microphone input and control interface compared to Fiio K7 to serve those who enjoys both HiFi and competitive games which require real-time communications. Many distributors such as GothamPro Audio had expressed interest in K7 at the expo, but Fosi claimed their production capacity is limited for now, so marketing efforts are currently minimal.
 
-Fosi also operates a high-end sub-brand, MEMORITAI, which currently offers the Euphony—a single-ended pure headphone amp priced at 10,000 RMB. While its chrome-plated mirror finish and intricate circuitry are impressive, I personally think the product represents an inefficient use of R&D and mold investment.
+![MEMORITAI](./assets/memoritai.jpg)
 
-Overall, Fosi is poised to become a significant force in the global HiFi scene. Their excellent cost control, robust R&D capabilities, and professional marketing approach position them as a formidable competitor. With plans to diversify into CD players, operational amplifiers, and other components, Fosi is receiving rare acclaim from both new audiophiles and seasoned veterans alike. However, their understanding of market demands could improve, and their newly hired product manager may address this gap.
+Fosi also operates a high-end sub-brand, MEMORITAI, which currently only offers a single-ended headphone amp priced at around 10,000 RMB, Euphony. Euphony's chrome-plated mirror finish and intricate circuitry are impressive, unlike dCS and Soundaware's "HiFi air circuitry". According to [objective measurements of ASR](https://www.audiosciencereview.com/forum/index.php?threads/mamoritai-euphony-hp-amp-review.58247) and the introduction of their stuff members, extraordinary electroacoustic measurement index is not what Euphony is for.
+
+Basicly a waste of R&D and molding investment, my personal opinion.
+
+Overall, Fosi is poised to become another significant force in the global HiFi market. Their excellent cost control, robust R&D and marketing skills position them as a formidable competitor. With plans to diversify into products from CD players to opamp and other components, **Fosi is receiving rare acclaim from both "HiFi technophilics"(科 Hi) and "anti-tech audiophiles"(老烧)** (I must have translated wrong). Based on my shallow knowledge of Fosi's products, I personally believe that Fosi's current analysis and understanding of market needs can be improved. I heard that they have recently hired a new product manager. Emm... I guess that would help.
+
+# Aune
+
+This isn't my first time listening to Aune's headphones, the AR5000 and SR7000. These headphones not only feature an astonishingly advanced ID but also excel in objective acoustic performance and subjective sound quality assessments by audiophiles. The wearing comfort and power demand is also optimal. An audiophile friend of mine, an international student in Russia who couldn't try headphones before buying (China has a lot of place to try headphones, no consumption is required in these place) was persuaded to buy an SR7000 on my recommendation, and he gave it high praise (though he noted its passive noise isolation isn't good).
+
+![SR7000](./assets/sr7000.jpg)
+
+Aune is a company of audiophiles. I was impressed by their expertise at the expo. I handed a Kennerton Magni and a NAN-7 to one of their staff members at the exhibition, and he immediately noticed that the Magni had a slight channel imbalance which is subtle, especially in noisy environment like the expo. He also provided insightful analysis of the sound characteristics and tuning philosophy of the Magni and NAN-7. Additionally, he introduced me to the "Loong scale" structure used in the SR7000's closed-back design:
+
+**The SR7000's rear chamber employs a dense rigid sound-absorbing structure with varying gaps instead of the traditional foam or sponge-like materials commonly found in closed-back headphones, and as return avoids muffled sound and enhances consistency.** (There might be other factors at play, but I've forgotten the details. Perhaps someone from Aune can add to this in the comments) The result? **The SR7000's soundstage is outstandingly natural, surpassing what most closed-back headphones can achieve.**
+
+The AR5000 and SR7000 both feature a refined tune, primarily stemming from low distortion and relatively flat frequency response. For youth, their first headphones are mostly consumer-grade Bluetooth models or budget earbuds with exaggerated tuning, significant distortion, and a heavy focus on coloration for some specific sound signatures. Even many audiophiles lack direct exposure to live performances or studio monitoring environments, leaving them accustomed to distorted sound. In a market where most HiFi manufacturers rely on coloration to satisfy various music flavors, Aune has taken a contrarian approach with its pure, High-Fidelity tuning idea, a philosophy that's well worth trying for audiophiles seeking authenticity.
+
+![Aune](./assets/aune.jpg)
+
+I also asked the staff member about their future plans. It turns out they have started working on planar magnetic and electrostatic headphone drivers. However, their next headphone likely won't launch until around Q2 of next year. Personally, I think there's room for discussion about their market strategy, especially after the success of the AR5000 in establishing Aune headphones' reputation for **greater sound, stylish design, less power demand, and high value for money.** Introducing the SR7000 with a higher price point in the 4,000+ RMB range feels debatable. While it's true that developing closed-back dynamic headphones is more challenging than open-back ones, and the SR7000 likely uses higher-grade drivers than its predecessor; but reusing the same ID, front chamber, and molds should help keep production costs manageable. Pricing it 4,000+ RMB might seem steep.
+
+That said, the unfortunate reality is that **there's hardly a closed-back headphone under 10,000 RMB that can match the SR7000 in terms of sound, comfort, or aesthetics.** Flagship closed-back headphones like Z1R and HD820 seem likely to cost more to manufacture than SR7000 due to their ID, but they still fall short in sound quality. Perhaps this is the confidence behind Aune's pricing. Hard to find a competitor in sound quality...
+
+It was quite awkward that the staff member recognized me as the admin who had mercilessly criticized their (or maybe one of their distributers') ridiculous and morally-flawed marketing tactics on Baidu Tieba. This is what happened when I left their booth:
+
+"Fewer criticisms plz."  
+"Won't criticize on your products."
+
+# Moondrop
+
+The CEO of Moondrop, nicknamed Watermoon, is truly a celebrity! At the exhibition, there were always people surrounding him, asking for autographs and photos. As a naturally shy person, I wanted to ask questions but couldn’t muster the courage to interrupt. 😭
+
+![moondrop](./assets/moondrop.jpg)
+
+At the SIAS exhibition, I had quite a lengthy conversation with the Moondrop boss. This time at the CIHE exhibition, I mostly spoke with Mr. Hou from Moondrop’s marketing department (he’s so humble that it made me feel a bit embarrassed). I’ll combine my insights from both events into this article.
+
+Since the inception of Moondrop’s planar magnetic headphone line, these products have faced significant criticism. The first time I listened to the **Para**, I hadn’t yet developed a strong sense of audio aesthetics and found the soundstage cramped and the sound uninspiring. After more than a year of diving into the audiophile world, I revisited Moondrop’s planar magnetic headphones with similar tonalities and found myself appreciating their pure and uncolored sound. My assessment evolved from “a dull product with no soundstage” to “a flat, authentic reproduction of natural sound,” although subjectively, I still felt the soundstage was somewhat average.
+
+![Moondrop Post](./assets/moondrop%20post.jpg)
+
+After their first planar headphone, **Venus**, was criticized for its weight, the follow-up models **Para** and **Cosmo** adopted an integrated design for the housing and driver (CN218450473U), slightly reducing the weight. However, the core design philosophy of planar magnetic headphones involves using large drivers for increased effective driver area and reduced distortion. This necessitates numerous magnets, and as a result, both models currently in production still exceed 1 kilogram.
+
+As someone sensitive to headphone weight, I asked Mr. Hou, “Since there’s still a considerable pricing gap between the Para and Cosmo, could Moondrop consider releasing a lighter planar headphone by slightly simplifying driver configurations?” His explanation was that cost, sound quality, and weight are mutually exclusive, and the primary goal of their planar magnetic lineup is to achieve an excellent price-to-performance ratio. Inevitably, this requires compromises. Additionally, Moondrop is performing exceptionally well as a company and wouldn’t stoop to the low practice of releasing downgraded versions just for profit. At the SIAS exhibition, the Moondrop boss showed me a prototype Cosmo shell made from carbon fiber, a material that’s both lightweight and high-strength. While this could significantly reduce weight, consumers might not be willing to pay the additional cost, echoing Mr. Hou’s sentiment.
+
+![Moondrop IEM](./assets/moondrop%20iem.jpg)
+
+At both exhibitions, I also asked the Moondrop boss and Mr. Hou about the ear pads used on their planar headphones. I noted that early batches of the Cosmo had noticeably thinner ear pads compared to later batches. Additionally, the leather material on the ear pads seemed more prone to generating slipping noises and was relatively harder, leading to uneven clamping force. I suspect these issues stem from the ear pad design prioritizing acoustic performance under proper wearing conditions, with less consideration for variations in head shapes, particularly smaller heads, which affects seal and pressure distribution. Interestingly, other exhibitors at the Guangzhou event also discussed ear pad supply issues for planar headphones.
+
+Moondrop’s planar headphone ear pads are magnetically attached. According to the Moondrop boss, the iron plate in the ear pads themselves isn’t magnetic but utilizes stray magnetism from the drivers for attachment. This design neither disrupts the magnetic field nor compromises air-tightness while being easy to replace—a remarkably well-thought-out design. For the thin housings of planar headphones, ear pads effectively serve as part of the chamber and are a critical tuning element. I believe offering optional replacement ear pads could be very popular among audiophiles.
+
+I’m genuinely looking forward to seeing Moondrop continue its tradition of low-distortion sound while paying more attention to the needs of weight-sensitive users with future headphone releases. Although they don’t appear to have plans for this at the moment, it’s far from impossible—after all, **Moondrop’s R&D team is undoubtedly among the top in the domestic HiFi industry**.
+
+![Robin](./assets/robin.jpg)
