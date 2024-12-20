@@ -1,8 +1,8 @@
+China International Headphone Expo (CIHE) in Guangzhou is the biggest HiFi headphone expo in the world. This post recounts my experiences and interviews during CIHE, tailored for audiophiles interested in HiFi industry. It bridges the information gap between manufacturers and consumers by offering insights rarely known to the general public. The order of manufacturers is arranged in ascending order of their influence.
+
 ![Robin](./assets/robin%20coser.jpg)
 
 ![Guangzhou](./assets/guangzhou.jpg)
-
-This post recounts my experiences and interviews during the China International Headphone Expo (CIHE) in Guangzhou, tailored for audiophiles interested in HiFi industry. It bridges the information gap between manufacturers and consumers by offering insights rarely known to the general public. The order of manufacturers is arranged in **ascending order** of their influence.
 
 # Hongshu Audio / Binary Acoustics
 
