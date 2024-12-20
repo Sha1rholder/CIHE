@@ -105,9 +105,9 @@ Since the inception of Moondrop's planar magnetic headphones, these products hav
 
 ![Moondrop Post](./assets/moondrop%20post.jpg)
 
-After their first planar headphone, Venus, was criticized for its weight, the follow-up models Para and Cosmo adopted an integrated design for the housing and driver (patent CN218450473U) and reduced some weight. However, the core design philosophy of planar headphones involves super large drivers for increased active area to reduce distortion. This necessitates numerous magnets. As a result, both models currently in production still exceed 500g.
+After their first planar headphone, Venus, was criticized for its weight, the follow-up models Para and Cosmo adopted an integrated design for the housing and driver (patent CN218450473U) and reduced some weight. However, the core design philosophy of planar headphones involves applying super large effective vibration area of diaphragm to reduce distortion. This necessitates numerous magnets. As a result, both models currently in production still exceed 500g.
 
-As someone very sensitive to headphone weight, I asked Mr. Hou, "Since there's still a considerable pricing gap between the Para (2,000 RMB) and Cosmo (5,000 RMB), could Moondrop consider releasing a lighter planar headphone by slightly simplifying driver configurations?" His explanation was that cost, sound quality, and weight are mutually exclusive, and the primary goal of their planar lineup is to achieve a high price-to-sound-quality ratio. Inevitably, this requires compromises. Additionally, Moondrop is performing exceptionally well as a company and wouldn't stoop to the practice of releasing downgraded versions just for profit. During SIAS, Watermoon showed me a Cosmo demo made from carbon fiber, a material that's lightweight and high-strength. While this could significantly reduce weight, consumers might not be willing to pay the additional cost, echoing Mr. Hou's sentiment.
+As someone very sensitive to headphone weight, I asked Mr. Hou, "Since there's still a considerable pricing gap between the Para (1,999 RMB) and Cosmo (4,999 RMB), could Moondrop consider releasing a lighter planar headphone by slightly simplifying driver configurations?" His explanation was that cost, sound quality, and weight are mutually exclusive, and the primary goal of their planar lineup is to achieve a high price-to-sound-quality ratio. Inevitably, this requires compromises. Additionally, Moondrop is performing exceptionally well as a company and wouldn't stoop to the practice of releasing downgraded versions just for profit. During SIAS, Watermoon showed me a Cosmo demo made from carbon fiber, a material that's lightweight and high-strength. While this could significantly reduce weight, consumers might not be willing to pay the additional cost, echoing Mr. Hou's sentiment.
 
 ![Moondrop IEM](./assets/moondrop%20iem.jpg)
 
@@ -125,22 +125,76 @@ I'm genuinely looking forward to seeing Moondrop continue its tradition of low-d
 
 ![FT7 K17](./assets/ft7%20k17.jpg)
 
-The relationship between the FT1pro and FT1 is tenuous at best. One is an open-back planar headphone, while the other is a closed-back dynamic headphone. Their only shared components are a few structural parts, the headband, and pads. Comparing between these two is meaningless. Subjectively, the FT1pro's sound profile resembles an HD650 with boosted bass and enhanced resolution. The FT1, on the other hand, undoubtedly reigns as the king of closed-back headphones under $300. As for the FT7, its tuning is still in progress, so subjective impressions are not very meaningful at this stage. However, its design reveals some fascinating details: it employs a highly open back cavity, as its ultrathin diaphragm is particularly sensitive to rear cavity reflections. This mirrors Hifiman's recent "Unveiled" concept. The front cavity features densely perforated earpads to complement this design. Fiio has gone to great lengths to ensure lightweight construction, achieving a remarkable weight of around 400g despite its large driver area. The carbon fiber headband underscores their commitment to premium materials, though its combination with plastic feels slightly off. Additionally, the sliding mechanism lacks smoothness—an aspect I hope they improve in the final version, perhaps drawing inspiration from models like the YH5000SE.
+The relationship between the FT1pro and FT1 is tenuous at best. One is an open-back planar, while the other is a closed-back dynamic. Their only shared components are a few structural parts, the headband, and the pads. Comparing between these two is meaningless. Subjectively, FT1pro sounds like HD650 with boosted bass and enhanced treble resolution, while FT1 undoubtedly reigns as the king of closed-back headphones under 2,000 RMB. As for the FT7, its tuning is still in progress, so subjective impressions is not important at this stage. However, the demo could still reveal some fascinating details: FT7 employs a highly open rear cavity, as its ultrathin diaphragm is particularly sensitive to reflections (same concept as Hifiman's recent "Unveiled"), and the front cavity features densely perforated pads to complement this design.
 
-The K17 is Fiio's sub-flagship DAC/headphone amplifier. Unlike the K19, it adds streaming input and touchscreen control, boasting a more "premium" and retro appearance. I estimate its price to be around $850. Ironically, its traditional design has led some audiophiles to mistakenly assume it surpasses the K19 and costs over $1,500. Analyzing its sound in a noisy exhibition hall is challenging, especially for a high-power desktop device, so I'll refrain from commenting on its performance for now.
+What's worth mentioning is Fiio has gone to great lengths to ensure lightweight construction, achieving a remarkable weight of 400g despite its super large effective vibration area of diaphragm. The carbon fiber headband underscores their commitment to premium materials, though its combination with plastic feels slightly off. Additionally, the sliding mechanism lacks smoothness, which is an aspect I hope they improve in the final version, perhaps drawing inspiration from models which share similiar headband ID like the YH5000se.
+
+The K17 is Fiio's sub-flagship DAC/headphone amp. Compared to K19, it adds streaming input and touchscreen control, boasting a more premium and retro appearance. I estimate its price to be around 5,999 rmb. Ironically, its traditional design has led some audiophiles to mistakenly assume it surpasses the K19 and costs over 10,000 RMB. Estimating a DAC/amp's sound in a noisy exhibition hall is challenging, especially for a premium desktop Sigma-Delta DAC and transistor amp, so I'll refrain from commenting on its sound performance for now.
 
 ![K11](./assets/k11.jpg)
 
-I also handled Fiio's entry-level desktop DAC/amp models K11 and K11 R2R. The R2R version is noticeably heavier, as it incorporates an additional R2R decoding board on top of the K11's standard design. According to Fiio's hardware engineer, this accounts for the weight difference. Following the SIAS exhibition, Fiio's marketing lead, Matt, mentioned that the R2R version has been selling exceptionally well. As a result, Fiio may consider incorporating R2R technology into their higher-end K1x desktop DAC/amps in the future. However, the engineer noted that launching an R2R version of models like the K17 would require significant technical breakthroughs to develop a more advanced R2R decoder. Personally, I find it puzzling that audiophiles in 2024 would embrace this retro technology, which has long been supplanted by integrated Sigma-Delta DACs. Nonetheless, given the positive market reception, it seems inevitable that Fiio will release more high-end R2R products.
+I also handled Fiio's entry-level desktop DAC/amp models K11 and K11 r2r. The r2r version is noticeably heavier. According to Fiio's lead hardware engineer Mr. Ren 任, K11 r2r incorporates an additional r2r circuit board on top of the K11's standard design, which accounts for the weight difference. Following the previous SIAS expo, Fiio's marketing lead, Matt, mentioned that the r2r version has been selling exceptionally well. As a result, Fiio may consider incorporating r2r DAC into their higher-end desktop DAC/amps in the future. However, Mr. Ren also noted that launching an r2r version of models like K17 would require Fiio to achieve technical breakthroughs in developing a more advanced r2r DAC first. Personally, I find it puzzling that audiophiles in 2024 would embrace this retro technology, which has long been supplanted by integrated Sigma-Delta DACs. Nonetheless, given the positive market reception, it seems inevitable that Fiio will almost certainly release higher-end r2r products.
 
 ![Fiio 1](./assets/fiio%201.jpg)
 
 ![Fiio 2](./assets/fiio%202.jpg)
 
-Fiio, as an established HiFi giant, demonstrated its maturity with a well-organized exhibition hall featuring a comprehensive product lineup. According to CEO James, Fiio aims to become the Decathlon of the HiFi world—delivering high value through rigorous cost control, fostering brand loyalty with outstanding user experiences, and becoming a one-stop HiFi solution provider. This strategy extends to Fiio's ventures into niche markets like tube amplifiers, desktop music streamers, portable CD players, vinyl systems, and even radios. Fiio is also introducing innovative designs into traditional products. For example, their latest DAC lineup incorporates ADI DSP chips to meet users' demand for customizable tuning.
+Fiio, as an established HiFi giant, demonstrated its maturity with a well-organized exhibition hall featuring a comprehensive product lineup. According to James, Fiio's founder, Fiio aims to become the Decathlon of HiFi industry, by delivering high value through rigorous cost control, fostering brand loyalty with outstanding user experiences, and becoming a one-stop HiFi solution provider. This strategy extends to Fiio's ventures into niche markets like tube amps, desktop streamers, portable CD players, vinyl systems, and even radios. Fiio is also introducing innovative designs into traditional products. For example, their latest DAC lineup incorporates ADI DSP chips to meet users' demand for customizable tuning.
 
 ![K19 DSP](./assets/k19%20dsp.png)
 
-That said, there's room for criticism regarding the usability of their DSP software. The Fiio DSP interface is overly technical, discouraging many audiophiles. By contrast, most enthusiasts who use EQ these days rely on pre-configured DSP profiles based on headphone frequency responses, such as those from AutoEQ or Oratory1990, and import them directly into software like EqualizerAPO with minimal effort. However, Fiio DSP lacks API and format support for major tuning databases, nor does it provide tools for translating EqualizerAPO configuration files. This makes precise adjustments nearly impossible for non-professionals. Even if the Fiio community happens to have EQ presets for your headphones, downloading, importing, and managing configurations is cumbersome. Beyond these issues, Fiio DSP has enormous potential for optimization and application scenarios that remain unexplored. Adding a simple DSP chip to a DAC opens up infinite possibilities, but Fiio has only scratched the surface. **Hopefully, with future software updates, possible collaborations with tuning communities, and Fiio's advancements in acoustic research, we'll see DSP technology realize its full potential within Fiio's product ecosystem.**
+However, there's room for criticism regarding the usability of their DSP software. The Fiio DSP interface is overly technical, discouraging many audiophiles. By contrast, most audiophiles who use EQ these days rely on pre-configured DSP profiles based on characteristics of specfic headphones, such as those from AutoEQ or Oratory1990, and import them directly into software like EqualizerAPO with minimal effort. However, Fiio DSP lacks API and format support for major tuning databases, nor does it provide tools for translating EqualizerAPO configuration files. This makes precise adjustments impossible for non-professionals. Even if the Fiio community happens to have EQ presets for your headphones, downloading, importing, and managing configurations is cumbersome. Beyond these issues, Fiio DSP has enormous potential for optimization and application scenarios that remain unexplored. Adding a simple DSP chip to a DAC could open up infinite possibilities, but Fiio has only scratched the surface for now. **Hopefully, with future software updates, possible collaborations with tuning communities, and Fiio's advancements in acoustic research, we'll see DSP technology realize its full potential within Fiio's products or even ecosystems.**
 
 ![Fiio Cosers](./assets/fiio%20cosers.jpg)
+
+---
+
+Below are some brands I encountered at CIHE that, while not brimming with new information, are still worth mentioning. The list is in no particular order.
+
+# Beyerdynamic
+
+![Beyer](./assets/beyer.jpg)
+
+Neither the official distributor nor secondary dealers had any updates regarding a new flagship.
+
+# Topping
+
+![Topping](./assets/topping.png)
+
+Topping is making moves into the soundcard market. Prepare to witness HiFi manufacturers redefine the price-performance ratio for soundcards and potentially outclass the competition. Additionally, Topping is working on speakers, IEMs, and headphones, but specific details are still under wraps.
+
+# Dunu
+
+![Dunu](./assets/dunu.jpg)
+
+![Arashi](./assets/arashi.jpg)
+
+Dunu's flagship planar magnetic headphone Arashi and their CD player both drew attention for their premium designs. However, both products are notably heavy and prohibitively expensive. According to Chief Engineer Mr. Zhao 赵, Dunu has no immediate plans to develop another headphone.
+
+# Shanling
+
+![Shanling](./assets/shanling.jpg)
+
+Shanling recently released HW600, a high-sensitivity planar headphone. True to Shanling's "lush and refined" sound signature, but the price is steep.
+
+# TDKD/Ori Sonic 初心之声/Moonshine 月照/XK Audio
+
+![TDKD](./assets/tdkd.jpg)
+
+TDKD specializes in distributing niche brands. During CIHE, they showcased several interesting products:
+
+- Ori Sonic's flagship planar headphones, the CS97 series
+- Entry-level dynamic headphones designed by Ori Sonic but branded by Moonshine
+- XK Audio's flagship planar headphones, the Serene
+
+Ori Sonic is a brand (or workshop) relies on China National Graphene Innovation Center. Its founder leads the R&D of headphones and IEM with a technical assistant title. For more details, you can check out [his product introductions on this forum](http://erji.net/forum.php?mod=viewthread&tid=2334345&highlight=%B9%FA%BC%D2%CA%AF%C4%AB%CF%A9%B4%B4%D0%C2%D6%D0%D0%C4%D7%F6%B5%C4%C7%A7%D4%AA%C6%BD%B0%E5%B6%FA%BB%FA%BB%B6%D3%AD%B4%F3%BC%D2%CA%D4%CC%FD%A3%AC%CC%D6%C2%DB).
+
+![Moonshine](./assets/moonshine.jpg)
+
+"Boss, where is the Serene? No way you didn't bring it do you?"  
+"Sure did." A Serene was then took out from behind the booth.  
+"You've got quite the knack for hiding your Serene!"
+
+![Serene](./assets/serene.jpg)
+
+I forgot to take pictures of Serene at the expo, so here's one from my collections at home. For more on the Serene... Emmm... I just discovered I haven't write an English version of Serene's Review.
